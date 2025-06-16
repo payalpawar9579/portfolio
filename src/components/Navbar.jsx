@@ -33,7 +33,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        {/* Removed logo branding */}
+        {/* Removed logo brandinggg is  */}
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => updateExpanded(expand ? false : "expanded")}
